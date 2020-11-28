@@ -1,1 +1,2 @@
 # solo-monk
+GO INTO NEXT SOLO MONK FOLDER
